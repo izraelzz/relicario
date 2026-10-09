@@ -1,0 +1,37 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Testes e ferramentas
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Configurações locais e segredos
+.env
+.env.*
+!.env.example
+
+# Editores
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
