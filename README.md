@@ -25,10 +25,7 @@ Requer Python 3.10+.
 
 ```bash
 python -m venv .venv
-# Windows:  .venv\Scripts\activate
-# Linux/macOS:
-source .venv/bin/activate
-
+.venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
