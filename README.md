@@ -1,9 +1,7 @@
 # Relicário — gerenciador de imagens
 
 Aplicativo desktop (Python + PyQt6 + Pillow) para organizar e editar as imagens de uma pasta,
-com visual de bosque bioluminescente: verdes profundos, musgo e luz difusa, com vermelho vivo reservado a alertas,
-inspirado na atmosfera de *Hollow Knight: Silksong* (somente paleta e clima — nenhuma arte ou logo do jogo).
-
+com visual de bosque bioluminescente: verdes profundos, musgo e luz difusa, com vermelho vivo reservado a alertas.
 ## Funcionalidades
 
 - **Escolher pasta**: carrega JPG, JPEG, PNG, WEBP e BMP em uma grade de miniaturas com rolagem.
