@@ -65,7 +65,7 @@ assets/fonts/      fonte Cinzel (OFL)
 Coloque o arquivo de ícone na pasta principal do projeto:
 
 ```text
-MeuAplicativo/
+relicario/
 ├── main.py
 └── icone.ico
 ```
